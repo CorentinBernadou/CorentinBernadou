@@ -3,7 +3,7 @@
 Holding a degree in design, I've transformed my career path into a self-driven journey as a developer with a focus on interaction, animation, and motion. My expertise lies in conceptualizing and creating interactive projects that boast visually compelling interfaces. My penchant for typography and minimalism drives my attention to detail and color, underlining my constant pursuit of personal and professional growth.
 
 Temporary website: <br/> 
-↳ [corentinbernadou.com](corentinbernadou.com)
+↳ [https://www.corentinbernadou.com](corentinbernadou.com)
 
 Contact/Collabs: <br/>
 ↳ [hi@corentinbernadou.com](mailto:hi@corentinbernadou.com)
