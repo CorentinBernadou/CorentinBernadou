@@ -1,6 +1,6 @@
 # Infos
 
-Holding a degree in design, I've transformed my career path into a self-driven journey as a developer with a focus on interaction, animation, and motion. My expertise lies in conceptualizing and creating interactive projects that boast visually compelling interfaces. My penchant for typography and minimalism drives my attention to detail and color, underlining my constant pursuit of personal and professional growth.
+Holding a degree in design, I shifted my career toward development, driven by a passion for interaction animation and motion. I create interactive projects with clean visually engaging interfaces paying close attention to detail color and typography. My minimalist approach shapes the way I build and refine experiences and I’m always looking to grow—both personally and professionally.
 
 Temporary website: <br/> 
 ↳ [corentinbernadou.com](https://www.corentinbernadou.com)
